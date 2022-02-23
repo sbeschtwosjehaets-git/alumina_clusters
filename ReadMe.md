@@ -10,9 +10,9 @@ https://doi.org/10.1051/0004-6361/202141976
            
 ================================================================================
 
-Bottom-up dust nucleation theory in oxygen-rich evolved stars
-I. Aluminium oxide clusters
-     Gobrecht D., Plane J.M.C., Bromley S.T., Decin L., Cristallo S., Sekaran S.
+Bottom-up dust nucleation theory in oxygen-rich evolved stars <br/>
+I. Aluminium oxide clusters <br/>
+     Gobrecht D., Plane J.M.C., Bromley S.T., Decin L., Cristallo S., Sekaran S. <br/>
      A&A 658 A167 (2022)
      
 ================================================================================
