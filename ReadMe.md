@@ -1,16 +1,20 @@
 A&A 658, A167 (2022) / Gobrecht et al. 2022    
 https://doi.org/10.1051/0004-6361/202141976
 ===============================================================================
+
            Thermochemical tables of aluminum- and oxygen-containing molecules
            and clusters. The tabulation largely correponds to the NIST-JANAF 
            table style (https://janaf.nist.gov/). 
            The present tables may be freely used uner the condition that the 
            following paper is appropriately cited.
+           
 ================================================================================
+
 Bottom-up dust nucleation theory in oxygen-rich evolved stars
 I. Aluminium oxide clusters
      Gobrecht D., Plane J.M.C., Bromley S.T., Decin L., Cristallo S., Sekaran S.
      A&A 658 A167 (2022)
+     
 ================================================================================
 ADC_Keywords: Abundances - Mass loss - Models, atmosphere -  Stars, late-type
 Keywords: astrochemistry - molecular processes - stars: AGB and post-AGB -
@@ -76,7 +80,7 @@ File Summary:
 --------------------------------------------------------------------------------
  FileName      		   Lrecl    Records    Explanations
 --------------------------------------------------------------------------------
-ReadMe            	   80       .          This file
+ReadMe            	     80       .          This file
 AlOtableThermo_combo.txt   99       62         Thermochemical table for AlO
 AlOHtableThermo_combo.txt  99       62         Thermochemical table for AlOH
 
