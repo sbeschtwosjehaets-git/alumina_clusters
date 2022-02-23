@@ -92,13 +92,13 @@ Byte-by-byte Description of the files:
 --------------------------------------------------------------------------------
    Bytes Format  Units         Label        Explanations
 --------------------------------------------------------------------------------
-   1-  6  F6.2   K             T(K)         Temperature
-  13- 20  F8.3   J/(mol*K)     S(J/mol.K)   Entropy
-  29- 36  F8.3   J/(mol*K)     cp(J/mol.K)  Molar heat capacity 
-  45- 52  F8.3   kJ/mol        ddH(kJ/mol)  Change of enthalpy w.r.t. to 0 K
-  59- 68  F10.3  kJ/mol        dHf(kJ/mol)  Enthalpy of formation
-  75- 84  F10.3  kJ/mol        dGf(kJ/mol)  Gibbs free energy of formation
-  92- 99  F8.3   ---           log Kf       Logarithm of equilibrium constant
+   1-  6  F6.2   K             T(K)         Temperature   <br/>
+  13- 20  F8.3   J/(mol*K)     S(J/mol.K)   Entropy       <br/>
+  29- 36  F8.3   J/(mol*K)     cp(J/mol.K)  Molar heat capacity  <br/>
+  45- 52  F8.3   kJ/mol        ddH(kJ/mol)  Change of enthalpy w.r.t. to 0 K <br/>
+  59- 68  F10.3  kJ/mol        dHf(kJ/mol)  Enthalpy of formation <br/>
+  75- 84  F10.3  kJ/mol        dGf(kJ/mol)  Gibbs free energy of formation <br/>
+  92- 99  F8.3   ---           log Kf       Logarithm of equilibrium constant <br/>
 --------------------------------------------------------------------------------
 
 Acknowledgements: 
