@@ -8,14 +8,14 @@ https://doi.org/10.1051/0004-6361/202141976
            The present tables may be freely used uner the condition that the 
            following paper is appropriately cited.
            
-================================================================================
+================================================================================  
 
 Bottom-up dust nucleation theory in oxygen-rich evolved stars <br/>
 I. Aluminium oxide clusters <br/>
      Gobrecht D., Plane J.M.C., Bromley S.T., Decin L., Cristallo S., Sekaran S. <br/>
      A&A 658 A167 (2022)
      
-================================================================================
+================================================================================  
 ADC_Keywords: Abundances - Mass loss - Models, atmosphere -  Stars, late-type
 Keywords: astrochemistry - molecular processes - stars: AGB and post-AGB -
           molecular data - stars: atmospheres - dust, extinction
